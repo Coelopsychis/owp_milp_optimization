@@ -21,6 +21,13 @@
 
 ..  toctree::
     :maxdepth: 2
+    :caption: Anleitungen
+    :hidden:
+
+    HowTo/Optimierungsgrenzen_Sensitivitaeten
+
+..  toctree::
+    :maxdepth: 2
     :caption: Dokumentation
     :hidden:
 
